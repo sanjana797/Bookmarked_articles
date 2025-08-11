@@ -5,3 +5,6 @@
 
 >> Designing Data Intensive applications - gist
     https://newsletter.techworld-with-milan.com/p/what-i-learned-from-the-book-designing
+
+>> Free tools for development list - might need it sometime
+    https://free-for.dev/
