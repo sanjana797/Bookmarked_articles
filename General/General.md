@@ -29,3 +29,8 @@
 > open source hacker collective
 
         https://fourthcross.tech/
+-------------------------------------------------------------------------------
+
+> startup failure tracker
+
+         https://www.loot-drop.io/
